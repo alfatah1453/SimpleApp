@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         nama = (EditText) findViewById(R.id.nama);
         whipCream = (CheckBox) findViewById(R.id.checkboxWhipCream);
         chocolate = (CheckBox) findViewById(R.id.checkboxChocolate);
+        
+    //TODO 
 
     }
 
